@@ -1,1 +1,1 @@
-# 33_Ethernet_technology
+Основы компьютерных сетей. Технология Ethernet
